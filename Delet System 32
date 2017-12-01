@@ -12,7 +12,7 @@ namespace Anotheruselessproject
         {
             int num = 800;
             int c = 0, x = 0;
-            int [] t = new int[20];
+            int [] t = new int[40];
             while (num >= 1)
 
             {
